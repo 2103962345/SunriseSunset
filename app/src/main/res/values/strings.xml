@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="google_maps_key">AIzaSyCvhVDcseW0uKWibHh2zYbLmM77n0cLSv0</string>
+<string name="current_location">Current Location</string>
+    <string name="Cancel">Cancel</string>
+    <string name="gps_network_not_enabled">GPS network not enabled</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="wifi_not_enabled">Wifi not enabled</string>
+    <string name="open_wifi_settings">Open Wifi settings</string>
+</resources>
